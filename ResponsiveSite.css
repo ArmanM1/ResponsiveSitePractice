@@ -26,3 +26,13 @@ color: var(--clr-neutral-100);}
     margin-inline: auto;
     width: min(90%, 70.5rem)
 }
+.container-narrow{
+    max-width:35rem;
+}
+.text-center{
+    text-align:center;
+}
+img{
+    diplay:block;
+    max-width:100%;
+}
