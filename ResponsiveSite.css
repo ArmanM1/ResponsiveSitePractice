@@ -33,6 +33,6 @@ color: var(--clr-neutral-100);}
     text-align:center;
 }
 img{
-    diplay:block;
+    display:block;
     max-width:100%;
 }
